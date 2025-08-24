@@ -96,10 +96,3 @@ The analysis includes:
 - Increase **outreach & education** for women-owned businesses in future relief programs  
 
 ---
-
-## 🚀 How to Run  
-
-1. Clone this repo  
-   ```bash
-   git clone https://github.com/yourusername/ppp-loan-analysis.git
-   cd ppp-loan-analysis
